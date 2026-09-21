@@ -2,7 +2,7 @@
 
 ## Estudiante
 
-* Nombre: [Nombre del Estudiante]
+* Nombre: Sergio Rodríguez López
 * Carpeta personal: `entregas/rodriguezSergio/A01/`
 
 ---
